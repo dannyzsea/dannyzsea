@@ -9,8 +9,7 @@
 
 
 <p align="center"></br>
-<b>I am Motivated Software Engineer with 3+ years of hands on experience with analysis, design, development, of software applications 
- and systems. I Maximized quality and responsiveness of applications by implementing latest technologies. Skilled in using, Core Java,C#, ReactJs, NodeJs, ExpressJs, mysql and mongoDB. Currently living in</b> <img src="https://image.flaticon.com/icons/png/512/323/323310.png" width="13"/> <b>USA, Seattle</b>. 
+<b>Motivated, creative, resourceful, and versatile Software Engineer with experience in Agile software development and systems. looking for an opportunity to further utilize my skills in a growth-oriented position within a tech industry. Currently living in</b> <img src="https://image.flaticon.com/icons/png/512/323/323310.png" width="13"/> <b>USA, Seattle</b>. 
 </p>
 <h3>Things I code with</h3>
 <p>
