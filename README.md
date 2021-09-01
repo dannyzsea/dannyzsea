@@ -32,7 +32,7 @@
 
 <h2 align="center">Career Objective</h2>
 <p align="center"></br>
-<b>Motivated, creative, resourceful, and versatile Software Engineer with experience in Agile software development and systems. looking for an opportunity to further utilize my skills in a growth-oriented position within a tech industry... Currently living in</b> <img src="https://image.flaticon.com/icons/png/512/323/323310.png" width="13"/> <b>USA, Seattle</b>. 
+<b>Motivated, creative, resourceful, and versatile Software Engineer with experience in Agile software development and systems. looking for an opportunity to further utilize my skills in a growth-oriented position within a tech industry. 
 </p>
 
 <h2 align="center">Professional Experience</h2></br>
