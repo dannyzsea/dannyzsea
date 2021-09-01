@@ -32,7 +32,7 @@
 
 <h2 align="center">Career Objective</h2>
 <p align="center"></br>
-<b>Motivated, creative, resourceful, and versatile Software Engineer with experience in Agile software development and systems. looking for an opportunity to further utilize my skills in a growth-oriented position within a tech industry. 
+<b>Motivated, creative, resourceful, and versatile Software Engineer with experience in Agile software development and systems. With knowledge of various programming languages, I am looking for an opportunity to further utilize my skills in a growth-oriented position within the tech industry. 
 </p>
 
 <h2 align="center">Professional Experience</h2></br>
