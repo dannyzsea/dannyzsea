@@ -1,7 +1,7 @@
 <p align="left">  <img alt="DanielHagos" src="https://media-exp1.licdn.com/dms/image/C4D03AQGGN-A_H5gm4A/profile-displayphoto-shrink_800_800/0/1625596456837?e=1635984000&v=beta&t=NJRRbu6oAqCdBmylzvqMH2gT0EmfaCgvs_lQjgPsEgI" width="150" height="150" /></p>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Daniel,+Hagos;Junior+Software+Engineer;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Daniel,+Hagos;Software+Engineer;&center=true&size=30">
   </a>
   <p align="center">
   <a href="https://reactjs.org/" target="_blank"><img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /></a>
