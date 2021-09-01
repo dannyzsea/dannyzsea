@@ -55,9 +55,10 @@
 
 </br>
 <p>
-<ul>
+
 <h3 align="left"><b><i>BHD IT SOLUTIONS PLC |Addis Ababa, Ethiopia | 2017-2020| Part time Frontend Engineer|</i></br></h3>
     <b>Tasks Performed:</b>
+    <ul>
     <li>Designed and Developed UI using react with Redux and tested with jasmine.</li>
 <li>Discussed with fellow developers to understand existing code and come up with efficient solution for given requirement.</li>
     <li>Extensively used GitHub for Version control.</li>
