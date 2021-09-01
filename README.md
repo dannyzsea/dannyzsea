@@ -96,7 +96,7 @@ Skills
   </ul>
   <p>
 <h2 align="center"><i>Bachelor of Science in Electrical and Computer Engineering</i></h2>
-<h3 align="center"> Ethiopian Institute Of Technology Mekelle (EIT-M)  Mekelle , Tigray</h3></br>
+<h3 align="center"> Ethiopian Institute Of Technology Mekelle (EIT-M),  Mekelle , Tigray</h3></br>
 <b>Key Courses:</b> Software Engineering, Database management system, Modern Programming Practices,
 , Computer Architecture, Operating Systems, Embedded system programming and design, Java programming, C++ programming…
 
