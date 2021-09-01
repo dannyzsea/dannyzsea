@@ -99,6 +99,13 @@ Skills
 <h3 align="center"> University, Mekelle, Ethiopia</h3></br>
 <b>Key Courses:</b> Software Engineering, Database management system, Modern Programming Practices,
 , Computer Architecture, Operating Systems, Embedded system programming and design, Java programming, C++ programming…
+
+<h3>Where To find me</h3>
+<p><a href="https://github.com/dannyzsea" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+ <a href="https://www.linkedin.com/in/daniel-hagos-12a724216/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@dannyzsea" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+
+</p>
     </p>
     <p align=center>
   <img src="https://activity-graph.herokuapp.com/graph?username=dannyzsea&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
