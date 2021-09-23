@@ -40,7 +40,7 @@
 <p align="left">
 <ul>
   <b>Tasks Performed:<b></br>
-  <li>	Developed front end using React and angular</li>
+  <li>	Developed front end using React</li>
   <li>Implemented Database using SQL Server</li>
   <li>	Writing clean, scalable code using C# Programming language</li>
   <li>Developed Data Access Layer using Entity Framework Core</li>
