@@ -1,4 +1,4 @@
-<p align="left">  <img alt="DanielHagos" src="https://media-exp1.licdn.com/dms/image/C4E03AQF233zzv2qccg/profile-displayphoto-shrink_800_800/0/1630538297303?e=1635984000&v=beta&t=i9NpVEcKAO02qIJQwH0HIRyZNBlTH7xYtd-QotWsTBE" width="150" height="150" /></p>
+<!-- <p align="left">  <img alt="DanielHagos" src="https://media-exp1.licdn.com/dms/image/C4E03AQF233zzv2qccg/profile-displayphoto-shrink_800_800/0/1630538297303?e=1635984000&v=beta&t=i9NpVEcKAO02qIJQwH0HIRyZNBlTH7xYtd-QotWsTBE" width="150" height="150" /></p> -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Daniel,+Hagos;Software+Engineer;&center=true&size=30">
