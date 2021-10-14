@@ -18,10 +18,10 @@
 <p align="left">
 <ul><li><b>Location:</b>Seattle, WA</li> 
   <li><b>Phone:</b>(206)-769-1821</li> 
-  <li><b>Email:</b>javatechisland@gmail.com</li>
+  <li><b>Email:</b>insighttechseattle@gmail.com</li>
   <li><b>Github:</b>https://github.com/dannyzsea</li>
-  <li><b>Website:</b>https://danielhagos.web.app/</li>
-  <li><b>LinkedIn:</b>https://www.linkedin.com/in/dannyhagos/</li>
+ <!-- <li><b>Website:</b>https://danielhagos.web.app/</li>-->
+  <!--<li><b>LinkedIn:</b>https://www.linkedin.com/in/dannyhagos/</li>-->
     </ul>
     </p>
 
