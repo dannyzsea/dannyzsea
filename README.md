@@ -27,7 +27,7 @@
 
 <h2 align="center">Education</h2>
 
-2011-2016:   **BSc, Computer Engineering** Ethiopian Institute of Technology Mekelle, Mekelle,Tigray
+   **BSc, Computer Engineering** Ethiopian Institute of Technology Mekelle, Mekelle,Tigray
 
 
 <h2 align="center">Career Objective</h2>
